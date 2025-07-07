@@ -1,0 +1,17 @@
+1,Math: A, Science: B, English: A, History: C, Geography: B
+2,Math: B, Science: A, English: B, History: B, Geography: A
+3,Math: A, Science: B, English: A, History: C, Geography: B
+4,Math: B, Science: A, English: B, History: B, Geography: A
+5,Math: A, Science: B, English: A, History: C, Geography: B
+6,Math: B, Science: A, English: B, History: B, Geography: A
+7,Math: A, Science: B, English: A, History: C, Geography: B
+8,Math: B, Science: A, English: B, History: B, Geography: A
+9,Math: A, Science: B, English: A, History: C, Geography: B
+10,Math: B, Science: A, English: B, History: B, Geography: A
+11,Math: A, Science: B, English: A, History: C, Geography: B
+12,Math: B, Science: A, English: B, History: B, Geography: A
+13,Math: A, Science: B, English: A, History: C, Geography: B
+14,Math: B, Science: A, English: B, History: B, Geography: A
+15,Math: A, Science: B, English: A, History: C, Geography: B
+16,Math: B, Science: A, English: B, History: B, Geography: A
+17,Math: A, Science: B, English: A, History: C, Geography: B

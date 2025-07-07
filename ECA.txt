@@ -1,0 +1,50 @@
+1, Outdoor Game: Football
+2, Music: Piano
+3, Outdoor Game: Football
+4, Outdoor Game: Basketball
+5, Indoor Game: Chess
+6, Music: Guitar
+7, Indoor Game: Table Tennis
+8, Outdoor Game: Basketball
+9, Indoor Game: Pool 
+10, Music: Violin
+11, Indoor Game: Pool 
+12, Indoor Game: Table Tennis
+13, Music: Cello
+14, Outdoor Game: Basketball
+15, Indoor Game: Pool 
+16, Outdoor Game: Swimming
+17, Outdoor Game: Golf
+18, Outdoor Game: Surfing
+19, Outdoor Game: Badminton
+20, Outdoor Game: Archery
+21, Outdoor Game: Cricket
+22, Outdoor Game: Skiing
+23, Indoor Game: Table tennis
+24, Indoor Game: Karate
+25, Indoor Game: Chairball
+26, Indoor Game: Darts
+27, Indoor Game: Gymnastics
+28, Indoor Game: Hockey
+29, Indoor Game: Bowling
+30, Indoor Game: Boxing
+31, Music: Guitar
+32, Outdoor Game: Cricket
+33, Outdoor Game: Football
+34, Indoor Game: Puzzles
+35, Indoor Game: Card Game
+36, Music: Violin
+37, Outdoor Game: Basketball
+38, Outdoor Game: Golf
+39, Indoor Game: Chess
+40, Indoor Game: Scrabble
+41, Music: Drum
+42, Outdoor Game: Volleyball
+43, Outdoor Game: Cycling
+44, Indoor Game: Dominos
+45, Indoor Game: Majhong
+46, Music: Flute
+47, Outdoor Game: Baseball
+48, Outdoor Game: Badminton
+49, Indoor Game: Ping Pong
+50, Indoor Game: Karoke
